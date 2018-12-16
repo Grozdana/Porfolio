@@ -99,7 +99,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   
  
   <div class="w3-padding-64 w3-content" id="photos">
-    <h2 class="w3-text-light-grey">My Projects</h2>
+    <h2 style="color:black";>My Projects</h2>
     <hr style="width:200px" class="w3-opacity">
 
 
