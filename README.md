@@ -178,9 +178,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
      
    
     <a href="https://www.linkedin.com/in/grozdana-acevska-krstanoska-938a97158/" target="_blank"><i class="fa fa-linkedin w3-hover-opacity"></i></a>
-    <p class="w3-xlarge" style="font-size: 50px;">created by me &#9786; <!-- <a href="https://www.w3schools.com/w3css/default.asp" target="_blank" class=" --><!-- w3-hover-text-pink">w3.css</a> --></p>
-  <!-- End footer --></p>
-  <!-- End footer -->
+    <p class="w3-xlarge" style="font-size: 50px;">created by me &#9786; 
   </footer>
 
 <!-- END PAGE CONTENT -->
