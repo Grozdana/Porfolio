@@ -105,7 +105,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 
     <div class="w3-row-padding" style="margin:0 -16px">
       <div class="w3-half">
-       <a href="https://www.airporttaxiskopjeuniquerent.com"  target="_blank" style="color: pink;"> This is my first project </a> 
+       <a href="https://www.airporttaxiskopjeuniquerent.com"  target="_blank" style="color: black;"> This is my first project </a> 
         
       </div>
 
@@ -117,7 +117,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 
 
   <div class="w3-padding-64 w3-content w3-text-grey" id="contact">
-    <h2 class="w3-text-light-grey">Contact Me</h2>
+    <h2 style="color:black">Contact Me</h2>
     <hr style="width:200px" class="w3-opacity">
 
     <div class="w3-section">
