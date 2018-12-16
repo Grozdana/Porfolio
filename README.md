@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <title>Grozdana Achevska Krstanoska</title>
 <meta charset="UTF-8">
