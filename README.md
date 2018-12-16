@@ -8,7 +8,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
-.w3-row-padding img {margin-bottom: 12px.color:black;}
+.w3-row-padding img {margin-bottom: 12px;}
 /* Set the width of the sidebar to 120px */
 .w3-sidebar {width: 120px;background: #222;}
 /* Add a left margin to the "page content" that matches the width of the sidebar (120px) */
@@ -30,7 +30,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 
   <!-- About Section -->
   <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
-    <h2 class="w3-text-light-grey" style="color:black;">My Name</h2>
+    <h2  style="color:black;">My Name</h2>
     <hr style="width:200px" class="w3-opacity">
     <p style="font-size: 20px;">
       My name is Grozdana Achevska Krstanoska. <br>
