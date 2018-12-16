@@ -40,7 +40,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
       I am currently working on a new project ....
 
     </p>
-    <h3 class="w3-padding-16 w3-text-light-grey">My Skills</h3>
+    <h3 style="color:black">My Skills</h3>
     <p class="w3-wide">HTML5</p>
     <div class="w3-white">
       <div class="w3-dark-gray" style="height:28px;width:95% " ></div>
@@ -99,7 +99,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   
  
   <div class="w3-padding-64 w3-content" id="photos">
-    <h2 style="color:black";>My Projects</h2>
+    <h2 style="color:black">My Projects</h2>
     <hr style="width:200px" class="w3-opacity">
 
 
